@@ -1,0 +1,14 @@
+{
+	"name": "ttyd",
+	"short_name": "ttyd",
+	"start_url": "/",
+	"lang": "en-US",
+	"display": "standalone",
+	"icons": [
+		{
+			"src": "/icon-512.png",
+			"type": "image/png",
+			"sizes": "512x512"
+		}
+	]
+}
